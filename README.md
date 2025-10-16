@@ -2,4 +2,4 @@
 this is a videogame
 
 download processing 4.01b
-copy "aMain" into whatever your processing folder location is
+copy "aMain1" into whatever your processing folder location is
